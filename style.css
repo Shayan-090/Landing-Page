@@ -133,3 +133,21 @@ h2{
     margin-left: 300px;
 }
 
+
+/* @media screen and (max-width:768px){
+    nav{
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+    padding: 1rem 0;
+    } 
+    .logo{
+        margin: 0;
+        padding-bottom:35px;
+    }
+    .shayan{
+        margin: auto;
+        
+    }
+    
+} */
